@@ -189,3 +189,4 @@ Something inbetween: an 'upgrade to git' script that (windows) downloads a porta
 Something inbetween v2: create an update script that downloads & unpacks the latest nightly, and tell people to use that
 I wrote a crappy shell script [3] that clones the repo from github and the i18n, and can also update it. It should work fine for any unix user (I only tested on OSX though), we would still need a windows solution though. Legoktm (talk) 05:10, 8 July 2013 (UTC)[reply]
 ...?
+current handler is @sammyfilly
